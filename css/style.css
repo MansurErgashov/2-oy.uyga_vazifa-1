@@ -698,6 +698,7 @@ html {
 }
 /*section4*/
 .main-section4 {
+    width: 100%;
     background-color: #00BAFC;
     padding-top: 56px;
     padding-bottom: 64px;
